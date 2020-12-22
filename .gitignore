@@ -2,3 +2,5 @@ __pycache__
 .idea
 lib/.ipynb_checkpoints
 lib/cornell_movie_data
+lib/data
+lib/debug.log
